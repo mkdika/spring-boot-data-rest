@@ -23,7 +23,7 @@ Then access application URL from browser [http://localhost:8080](http://localhos
 
 ### Local Endpoint (API Test)
 
-- [Swagger Web UI](http://localhost:8121/swagger-ui.html), view all auto-registered Data REST endpoints.
+- [Swagger Web UI](http://localhost:8080/swagger-ui.html), view all auto-registered Data REST endpoints.
 
 
 

@@ -21,5 +21,13 @@ Then access application URL from browser [http://localhost:8080](http://localhos
 
 
 
+### Local Endpoint (API Test)
+
+- [Swagger Web UI](http://localhost:8121/swagger-ui.html), view all auto-registered Data REST endpoints.
+
+
+
 ### Relevant Article & References
-_Coming soon..._
+- [Spring Data REST](https://projects.spring.io/spring-data-rest/#)
+- [Spring Data REST Introduction](http://www.baeldung.com/spring-data-rest-intro)
+- [Accessing Data REST](https://spring.io/guides/gs/accessing-data-rest/)
